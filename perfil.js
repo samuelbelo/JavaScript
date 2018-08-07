@@ -44,8 +44,8 @@ perfil.adicionaChute();
 perfil.adicionaChute();
 
 console.log(perfil.chutes);
-console.log(perfil.verificaAcerto("Coringa"))
-console.log(perfil.verificaAcerto("Batman"))
+console.log(perfil.verificaAcerto("Chimbinha"))
+console.log(perfil.verificaAcerto("Hans Zimmer"))
 
 
 
